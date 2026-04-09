@@ -1,0 +1,45 @@
+# SystemP
+jlfm,000794,ibmsysp,Ferreyra Mucha Jorge Luis
+jcoc,000754,ibmsysp,Oviedo Castro John Cristian
+jjac,001622,ibmsysp,Alvarez Cuno Juan Jose
+jdpr,001512,ibmsysp,Pastor Rios Jorge Demetrio
+tssc,001754,ibmsysp,Shimajuko Calderon Taichi Sergio
+ajue,W-6042614,ibmsysp,Urtecho Espinoza Alexander Junior
+jdar,000736,ibmsysp,Atencio Ramirez Jose Daniel
+jvpp,002275,ibmsysp,Ponce Palomino Joshelin Victoria
+drpg,002278,ibmsysp,Picho Gomez Diego Raul
+bsdc,000546,ibmsysp,Durand Cornejo Bonny Stephany
+aype,W-6043917,ibmsysp,Abigael Yangali Pérez
+jrha,6050082,ibmsysp,Jhayro Huiza Anccasi
+
+
+# Backups
+fmmf,000380,ibmbckpe,Montano Fuentes Fidel Maximo
+orcd,001700,ibmbckpe,Chamorro Deudor Oscar Raul
+
+# Data Management
+rcgd,000884,ibmdbape,Giribaldi Doria Roberto Carlos
+flgi,000835,ibmdbape,Gonzales Inga Fabia Liseth
+jalp,000756,ibmdbape,Lozano Pinedo Jorge Andres
+wpgm,000844,ibmdbape,Gilbonio Meza Wilson Pedro
+jrrv,001817,ibmdbape,Romero Vargas Jesus Raul
+jagd,6042145,ibmdbape,Gutierrez Davila Jonathan Alexander
+paml,002110,ibmsysp,Mallqui Linian Pablo Aaron
+lrpt,002115,ibmgsbpe,Palma Tito Lizetty Rebeca
+
+# SAP
+yrch,001170,ibmsappe,Chuchon Hermoza Yordy Rafael
+mxac,001270,ibmsappe,Antunez Carrillo Miguel Xavier
+
+
+# WME
+vaeb,000679,ibmwmepe,Espinoza Bullon Victor Antonio
+jtrc,001313,ibmwmepe,Rios Cordova Jose Trinidad
+wapw,001627,ibmwmepe,Ponce William
+daea,5060904,ibmwmepe,Diego Encinas Alarco
+
+# ACTIVACIONES
+lrpt,002115,ibmgsbpe,Palma Tito Lizetty Rebeca
+paml,002110,ibmsysp,Mallqui Linian Pablo Aaron
+ascy,001481,ibmgsbpe,Chacon Yangali Alexander Steve
+
