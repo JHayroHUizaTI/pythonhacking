@@ -1,3 +1,0 @@
-kyndjlfm:x:1001:1001:815/K/000794/Kyndryl/Ferreyra Mucha Jorge Luis:/home/kyndjlfm:/bin/bash
-kyndjcoc:x:1002:1002::/home/kyndjcoc:/bin/bash
-root:x:0:0:root:/root:/bin/bash
